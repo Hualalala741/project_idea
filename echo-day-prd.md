@@ -1,5 +1,5 @@
 # Echo Day 产品需求文档 (PRD)
-
+Prototype: [Google Stitch Preview](https://stitch.withgoogle.com/preview/10247988787779085985?node-id=b2101bcebc4e421e9e2b7674ff7e2893)
 ## 1. 文档信息
 
 | 项目 | 内容 |
